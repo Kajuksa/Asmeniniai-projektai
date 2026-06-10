@@ -1,6 +1,6 @@
 # Sveiki, aš esu Kajus Misevičius
 
-Dirbtinio intelekto sistemų studentas, VILNIUS TECH (3 kursas)  
+Dirbtinio intelekto sistemų studentas, VILNIUS TECH 
 Erasmus alumni — University of Aveiro, Portugalija  
 
 kajus.misevicius@stud.vilniustech.lt
